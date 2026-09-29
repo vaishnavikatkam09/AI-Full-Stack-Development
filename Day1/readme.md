@@ -19,6 +19,7 @@ git pull --> downloads the latest changes from the github
 -------------------------------------------------------------------
 ==>python -m pip install streamlit 
 ==>pip install streamlit
+<<<<<<< HEAD
 streamlit run file.py
 
 docs.streamlit.io/develop/api-reference 
@@ -52,3 +53,6 @@ Phase 2:
 5.Build prompt
 6.Ollama/Llama
 7.Generate Answer
+=======
+streamlit run file.py
+>>>>>>> 27d61dd9040b6006c393af38834d28d41273e532
